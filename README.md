@@ -1,4 +1,3 @@
-# Praktikum4 Rini Ariza
 # LAB 2
 # Latihan 1 Program Menentukan dua bilangan terbesar
 
