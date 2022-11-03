@@ -1,5 +1,5 @@
 # LAB 2
-# Latihan 1 Program Menentukan dua bilangan terbesar
+# Latihan 1 Program Menentukan 2 bilangan terbesar
 
 ![Screenshot (172)](https://user-images.githubusercontent.com/115542704/199762141-727540e3-cdc9-4b97-bf17-75f426ee2703.png)
 
