@@ -26,17 +26,17 @@
 
 
 # Modul Praktikum 3
-# Latihan1
+# Latihan 1
 
 ![Screenshot (171)](https://user-images.githubusercontent.com/115542704/199765728-7181d33c-53da-4fa2-8fe2-cf79143df409.png)
 
 
-# Latihan2
+# Latihan 2
 
 ![Screenshot (169)](https://user-images.githubusercontent.com/115542704/199766083-13d0bf3a-9a89-4012-a33f-95e8659c9858.png)
 
 
-# Program1
+# Program 1
 
 ![Screenshot (170)](https://user-images.githubusercontent.com/115542704/199766325-43682b17-9bf9-4288-b838-e27fd1c7460d.png)
 
