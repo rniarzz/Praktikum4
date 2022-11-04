@@ -40,3 +40,5 @@
 
 ![Screenshot (170)](https://user-images.githubusercontent.com/115542704/199766325-43682b17-9bf9-4288-b838-e27fd1c7460d.png)
 
+### ================ SEKIAN TERIMA ================
+
