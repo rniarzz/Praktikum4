@@ -36,7 +36,7 @@
 ![Screenshot (169)](https://user-images.githubusercontent.com/115542704/199766083-13d0bf3a-9a89-4012-a33f-95e8659c9858.png)
 
 
-# Latihan3
+# Program1
 
 ![Screenshot (170)](https://user-images.githubusercontent.com/115542704/199766325-43682b17-9bf9-4288-b838-e27fd1c7460d.png)
 
