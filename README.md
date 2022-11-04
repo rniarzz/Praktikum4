@@ -15,8 +15,7 @@
 
 # Latihan 2 Lebih kecil dari 0.5
 
-![Screenshot (171)](https://user-images.githubusercontent.com/115542704/199764575-1d5108b0-4e95-4e09-a041-a0fbfa791231.png)
-
+<img width="669" alt="Screenshot 176" src="https://user-images.githubusercontent.com/115542704/199922146-3cd0b8ae-e906-4b24-98b3-3514e992fc0b.png">
 
 
 # Modul Praktikum 2
