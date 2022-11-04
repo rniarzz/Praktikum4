@@ -1,4 +1,4 @@
-# LAB 2
+# LAB 2 struktur kondisi
 # Latihan 1 Program Menentukan 2 bilangan terbesar
 
 ![Screenshot (172)](https://user-images.githubusercontent.com/115542704/199762141-727540e3-cdc9-4b97-bf17-75f426ee2703.png)
@@ -7,7 +7,7 @@
 
 ![Screenshot (174)](https://user-images.githubusercontent.com/115542704/199762450-e2c6768e-bfb9-49bb-acfc-9c8079fbc196.png)
 
-# LAB 3
+# LAB 3 perulangan
 # Latihan 1 Bertingkat
 
 ![Screenshot (175)](https://user-images.githubusercontent.com/115542704/199764258-94d0b592-0c37-4dbe-8255-2b9d1c047f13.png)
