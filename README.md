@@ -1,3 +1,6 @@
+### Nama : Rini Ariza
+### Nim : 312210337
+
 # LAB 2 Struktur Kondisi
 # Latihan 1 Program Menentukan 2 bilangan terbesar
 
