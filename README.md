@@ -1,5 +1,4 @@
 ### Nama : Rini Ariza
-
 ### Nim : 312210337
 
 # LAB 2 Struktur Kondisi
